@@ -1,0 +1,19 @@
+/body{color: darkseagreen;
+background-color: deepskyblue;
+font-family: "Playfair Display", serif;
+margin: 0px;
+margin-bottom: 100px;
+}
+.chamada {
+    background: lightslategray;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    header {
+        color: blanchedalmond;
+        margin-bottom: solid 3px darkgreen (16,136,136);
+        padding: 80px;
+        font-size: medium;
+    }
+}
